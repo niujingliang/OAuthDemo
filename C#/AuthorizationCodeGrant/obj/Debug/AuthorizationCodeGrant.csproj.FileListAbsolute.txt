@@ -1,0 +1,68 @@
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\obj\Debug\AuthorizationCodeGrant.csproj.App.config
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\AuthorizationCodeGrant.dll.config
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\AuthorizationCodeGrant.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\AuthorizationCodeGrant.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\Constants.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\DotNetOpenAuth.Core.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.Client.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\Microsoft.Web.Infrastructure.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Net.Http.Extensions.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Net.Http.Primitives.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.Helpers.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.Mvc.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.Razor.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.WebPages.Deployment.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.WebPages.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.WebPages.Razor.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\Constants.pdb
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\DotNetOpenAuth.Core.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.Client.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Net.Http.Extensions.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Net.Http.Primitives.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.Helpers.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.Mvc.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.Razor.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.WebPages.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.WebPages.Deployment.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\bin\System.Web.WebPages.Razor.xml
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\obj\Debug\AuthorizationCodeGrant.csprojResolveAssemblyReference.cache
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\obj\Debug\AuthorizationCodeGrant.dll
+D:\temp\AuthorizationServer\AuthorizationServer\AuthorizationCodeGrant\obj\Debug\AuthorizationCodeGrant.pdb
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\AuthorizationCodeGrant.dll.config
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\AuthorizationCodeGrant.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\AuthorizationCodeGrant.pdb
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\Constants.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\DotNetOpenAuth.Core.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.Client.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Net.Http.Extensions.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Net.Http.Primitives.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.Helpers.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.Mvc.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.Razor.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.WebPages.Deployment.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.WebPages.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.WebPages.Razor.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\Constants.pdb
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\DotNetOpenAuth.Core.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.Client.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Net.Http.Extensions.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Net.Http.Primitives.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.Helpers.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.Mvc.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.Razor.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.WebPages.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.WebPages.Deployment.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\bin\System.Web.WebPages.Razor.xml
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\obj\Debug\AuthorizationCodeGrant.csproj.App.config
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\obj\Debug\AuthorizationCodeGrant.csprojResolveAssemblyReference.cache
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\obj\Debug\AuthorizationCodeGrant.dll
+D:\Git\OWIN OAuth 2.0 Authorization Server\C#\AuthorizationCodeGrant\obj\Debug\AuthorizationCodeGrant.pdb
